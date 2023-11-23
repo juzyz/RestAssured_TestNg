@@ -1,6 +1,9 @@
 # RestAssured_TestNg_Allure
-This demo represents a simplified framework for testing and validation of REST APIs using the REST-assured library, TestNg, and Allure frameworks. 
-The project includes examples of response validation for requests such as GET and POST, incorporating JSON Schema Validation with REST-assured.
+This demo represents a simplified framework for testing and validating REST APIs using the REST-assured library, TestNg, and Allure frameworks. The project includes examples:
+
+1. Checking responses for requests such as GET and POST
+2. Verifying JSON data consistency using JSON schema
+3. Implementing the models layer.
 
 **Before start**
 
