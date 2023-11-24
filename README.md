@@ -50,4 +50,6 @@ The most popular annotation:
 
 `@Epic` -> `@Feature` -> `@Story` - combine your tests to a tree and split them by epic | feature | story
 
-A sample of the Allure report can be found in the allure-report directory.
+A sample of the Allure report:
+
+![allure_report](https://github.com/juzyz/RestAssured_TestNg_Allure/assets/96008515/96c4d9ec-6b67-443f-ad24-1a5f9b3faa75)
